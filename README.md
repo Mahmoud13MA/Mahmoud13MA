@@ -1,12 +1,3 @@
-<div align="center">
-
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=125&text=&fontSize=0&color=0:8B5CF6,100:EC4899&stroke=00000000" width="100%"/>
-
-<table border="0" width="100%">
-<tr>
-<td align="center" width="100%">
-
 ```ascii
 ███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗ 
 ████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗
