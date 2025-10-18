@@ -1,151 +1,218 @@
 <div align="center">
 
-# Mahmoud Abdelrauf
+<!-- Clean Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12a8fa,100:30cfd0&height=120&text=MAHMOUD%20ABDELRAUF&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%203rd%20Year%20CS%20Student&descSize=18&descAlignY=58&descAlign=50"/>
 
-[![](https://img.shields.io/badge/MACHINE%20LEARNING%20ENGINEER-2E3440?style=for-the-badge&logoColor=white&labelColor=5E81AC)](https://github.com/Mahmoud13MA)
-[![](https://img.shields.io/badge/3RD%20YEAR%20CS%20STUDENT-2E3440?style=for-the-badge&logoColor=white&labelColor=88C0D0)](https://github.com/Mahmoud13MA)
-[![](https://img.shields.io/badge/EGYPT%20🇪🇬-2E3440?style=for-the-badge&logoColor=white&labelColor=81A1C1)](https://github.com/Mahmoud13MA)
+<!-- Quick Stats -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Mahmoud13MA?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Mahmoud13MA?label=Stars&style=flat&color=0e75b6" />
+</p>
+
+<!-- Social Links -->
+<p>
+  <a href="https://linkedin.com/in/mahmoud-a-567a7a214"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mahmoudabdelrauf84@gmail.com"><img src="https://img.shields.io/badge/-Email-0e75b6?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Mahmoud13MA"><img src="https://img.shields.io/badge/-GitHub-0e75b6?style=flat&logo=GitHub&logoColor=white"/></a>
+  <a href="https://twitter.com/mahmoud13ma"><img src="https://img.shields.io/badge/-Twitter-0e75b6?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
 
 </div>
 
-## 👋 About Me
+---
 
-> *"Turning data into intelligence, one algorithm at a time"*
+## 👨‍💻 About Me
 
-I'm a passionate Machine Learning Engineer and Computer Science student with a proven track record of **94.87% accuracy** in ML models. Currently exploring the intersection of AI and real-world problem solving.
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<details>
-<summary><b>🎯 Quick Stats</b></summary>
+- 🎓 **3rd Year Computer Science Student**
+- 🤖 **Machine Learning Enthusiast**
+- 🎯 **94.87% ML Accuracy Achieved**
+- 💡 **25+ Projects Completed**
+- 🌱 **Currently Learning Deep Learning & Full-Stack**
+- 🔍 **Looking for ML/AI Internship Opportunities**
+- 📍 **Based in Egypt** 🇪🇬
 
-- 🔥 **25+** Projects Completed
-- ⭐ **234** GitHub Stars
-- 📊 **94.87%** ML Model Accuracy
-- 💻 **1,337** Total Commits
-- 🏆 **500+** Problems Solved
+```python
+mahmoud = {
+    "code": ["Python", "Java", "C++", "SQL"],
+    "ml_stack": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost"],
+    "tools": ["Git", "Docker", "Linux", "Jupyter"],
+    "interests": ["AI", "Deep Learning", "Problem Solving"]
+}
+```
 
-</details>
+---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FFF?style=for-the-badge&logo=xgboost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-</td>
-</tr>
-</table>
+---
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
-<tr>
-<td width="33%" align="center">
-<h3>🧠 Parkinson's Detection AI</h3>
-<a href="https://github.com/Mahmoud13MA/parkinsons-ml">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-5E81AC?style=for-the-badge" />
-</a>
-<br><br>
-<b>94.87% Accuracy</b><br>
-XGBoost • Gradio • Python<br>
-Early disease detection using voice analysis
-</td>
-<td width="33%" align="center">
-<h3>🗺️ TSP Optimizer</h3>
-<a href="https://github.com/Mahmoud13MA/tsp-solver">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-88C0D0?style=for-the-badge" />
-</a>
-<br><br>
-<b>3 Algorithms</b><br>
-PyQt5 • Genetic Algorithm • Python<br>
-Advanced route optimization solver
-</td>
-<td width="33%" align="center">
-<h3>🎓 Grading System</h3>
-<a href="https://github.com/Mahmoud13MA/grading-java">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-81A1C1?style=for-the-badge" />
-</a>
-<br><br>
-<b>MVC Architecture</b><br>
-Java Swing • MySQL • Dark UI<br>
-Complete academic management system
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Parkinson's Detection AI</h3>
+      <br />
+      <a href="https://github.com/Mahmoud13MA/parkinsons-ml">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=parkinsons-ml&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Accuracy-94.87%25-00D9FF?style=flat" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-189FFF?style=flat" />
+      </p>
+      <p><strong>ML model for early Parkinson's detection using voice biomarkers</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ TSP Optimizer</h3>
+      <br />
+      <a href="https://github.com/Mahmoud13MA/tsp-solver">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=tsp-solver&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Algorithms-3-00D9FF?style=flat" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white" />
+      </p>
+      <p><strong>Advanced TSP solver with multiple algorithms and GUI</strong></p>
+    </td>
+  </tr>
 </table>
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&icon_color=81A1C1" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4" />
-</td>
-</tr>
-</table>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=nord&hide_border=true&background=2E3440&stroke=88C0D0&ring=5E81AC&fire=BF616A&currStreakLabel=88C0D0" width="70%" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=react&hide_border=true"/>
+
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud13MA&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
 
 ## 🎯 2024 Goals & Progress
 
+<div align="center">
+
 | Goal | Progress | Status |
 |------|----------|--------|
-| 🧠 Master Deep Learning | ![](https://geps.dev/progress/75) | In Progress |
-| 💼 FAANG Internship | ![](https://geps.dev/progress/40) | Preparing |
-| 📝 Research Publication | ![](https://geps.dev/progress/30) | Planning |
-| 🏆 500 LeetCode Problems | ![](https://geps.dev/progress/60) | Active |
-| 🚀 5+ ML Projects | ![](https://geps.dev/progress/80) | Nearly Done |
+| 🧠 Master Deep Learning | ![80%](https://progress-bar.dev/80) | 🔥 In Progress |
+| 💻 Build 10+ ML Projects | ![60%](https://progress-bar.dev/60) | 📈 On Track |
+| 🎯 500 LeetCode Problems | ![40%](https://progress-bar.dev/40) | 💪 Working |
+| 🚀 FAANG Internship | ![30%](https://progress-bar.dev/30) | 📚 Preparing |
+| 🎓 Graduate with Honors | ![75%](https://progress-bar.dev/75) | ✨ On Track |
 
-## 📫 Connect With Me
+</div>
+
+---
+
+## 💼 Open for Opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-a-567a7a214)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudabdelrauf84@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoud13MA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoud13ma.github.io)
+### I'm currently looking for:
 
-<br>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
+      <br><strong>ML/AI Internships</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/code.png" width="40"/>
+      <br><strong>Open Source Projects</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/handshake.png" width="40"/>
+      <br><strong>Collaborations</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/color/48/000000/learning.png" width="40"/>
+      <br><strong>Learning Partners</strong>
+    </td>
+  </tr>
+</table>
 
-**💼 Open for: ML/AI Internships • Research Collaborations • Freelance Projects**
+**📍 Location:** Egypt | **💼 Available:** Remote/Hybrid | **📧 Contact:** mahmoudabdelrauf84@gmail.com
 
-<img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&color=5E81AC&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Activities
+
+<!-- BLOG-POST-LIST:START -->
+- 🔭 Working on: **Deep Learning Projects**
+- 🌱 Learning: **Transformers & GANs**
+- 👯 Looking to collaborate on: **ML Research Papers**
+- 💬 Ask me about: **Machine Learning, Python, Problem Solving**
+- ⚡ Fun fact: **I debug with print statements and I'm proud of it!**
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a6yxqaymtsgce6vzqpzurf7n6i&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31a6yxqaymtsgce6vzqpzurf7n6i&redirect=true)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ by Mahmoud Abdelrauf • © 2024</sub>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:12a8fa&height=100&section=footer&text=Thanks%20for%20visiting!%20Feel%20free%20to%20connect%20🚀&fontSize=14&fontColor=ffffff&animation=twinkling"/>
+
+**© 2024 Mahmoud Abdelrauf | Built with ❤️ and ☕**
+
 </div>
 ```
