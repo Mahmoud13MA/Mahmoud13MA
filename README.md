@@ -1,612 +1,723 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; **Mahmoud Abdelrauf** | محمود عبدالرؤوف &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ML%20Engineer%20in%20Progress&fontSize=40&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling" />
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mahmoud%20Abdelrauf&fontSize=90&animation=fadeIn&fontAlignY=38&desc=🚀%20ML%20Engineer%20|%20Software%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" />
+  
+  <!-- Profile Views & Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Mahmoud13MA?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Mahmoud13MA?label=Total%20Stars&style=for-the-badge&color=gold" alt="Stars" />
+    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Level-Junior%20Developer-blue?style=for-the-badge" alt="Level" />
+  </p>
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=🚀+3rd+Year+Computer+Science+Prodigy;🤖+Machine+Learning+Architect;💡+Building+the+Future+with+AI)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=3rd+Year+Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+with+94.87%25+Accuracy+%F0%9F%A7%A0;Building+the+Future+with+AI+%26+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
   
-  <!-- Social Badges -->
-  [![GitHub followers](https://img.shields.io/github/followers/Mahmoud13MA?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=000000&logo=github)](https://github.com/Mahmoud13MA?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/Mahmoud13MA?style=for-the-badge&color=FFA116&labelColor=000000&logo=star)](https://github.com/Mahmoud13MA)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-a-567a7a214)
-  [![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudabdelrauf84@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud13MA&color=FF6B6B&style=for-the-badge&label=LEGENDS+VISITED)
+  <!-- Social Links -->
+  <p>
+    <a href="mailto:mahmoudabdelrauf84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/mahmoud-a-567a7a214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Mahmoud13MA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  </p>
   
-  <!-- Matrix Rain Effect GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+  <!-- Animated Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **The Legend Behind The Code**
+<!-- About Me Section -->
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Welcome to My Digital Universe
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<table align="center">
+  <tr>
+    <td width="50%">
+      
+## 🧑‍💻 About Me
 
 ```python
-class EliteDeveloper:
-    """🔥 The One Who Codes The Future 🔥"""
-    
+class MahmoudAbdelrauf:
     def __init__(self):
-        self.username = "Mahmoud13MA"
         self.name = "Mahmoud Abdelrauf"
-        self.role = "Future ML Engineer"
-        self.level = "LEGENDARY"
-        self.power_level = 9001  # It's over 9000!
+        self.role = "CS Student & ML Engineer"
+        self.university = "3rd Year Computer Science"
+        self.age = 21
+        self.country = "🇪🇬 Egypt"
         
-        self.skills = {
-            "languages": ["Python 🐍", "Java ☕", "C++ ⚡", "SQL 💾"],
-            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost"],
-            "specialties": ["Neural Networks", "Computer Vision", "NLP"],
-            "tools": ["Git", "Docker", "Linux", "Jupyter"],
-            "superpowers": ["Problem Solving", "Algorithm Design", "Clean Code"]
-        }
-        
-        self.achievements = {
-            "ml_accuracy": "94.87%",
-            "projects_completed": 25,
-            "coffee_consumed": "∞",
-            "bugs_squashed": 1337,
-            "lines_of_code": 100000
+    def get_skills(self):
+        return {
+            "languages": ["Python", "Java", "C++", "SQL", "MATLAB"],
+            "ml_frameworks": ["XGBoost", "Scikit-Learn", "TensorFlow", "PyTorch"],
+            "gui_frameworks": ["PyQt5", "Tkinter", "Java Swing", "Gradio"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
+            "databases": ["MySQL", "SQLite", "MongoDB"],
+            "tools": ["Git", "Docker", "Jupyter", "VS Code", "IntelliJ IDEA"]
         }
     
-    def current_status(self):
-        return "🔥 Transforming caffeine into code since 2021"
+    def get_current_projects(self):
+        return [
+            "🧠 Parkinson's Disease Detection (94.87% Accuracy)",
+            "🎓 Student Grading System with Dark GUI",
+            "🗺️ TSP Solver with Multiple Algorithms",
+            "📊 Data Visualization Dashboard"
+        ]
     
-    def life_philosophy(self):
-        return "while(alive) { eat(); sleep(); code(); repeat(); }"
+    def get_achievements(self):
+        return {
+            "ml_accuracy": "94.87% in Disease Detection",
+            "projects_completed": 15,
+            "languages_learned": 5,
+            "github_stars": "50+",
+            "contributions": "1000+"
+        }
+    
+    def say_hi(self):
+        return "Thanks for visiting! Let's build something amazing together! 🚀"
 
-legend = EliteDeveloper()
+me = MahmoudAbdelrauf()
+print(me.say_hi())
 ```
 
-<br clear="right"/>
-
----
-
-## ⚡ **Power Stats & Abilities**
-
-<div align="center">
-
-### 🎯 **Skill Power Levels**
-
-| **Domain** | **Technology** | **Power Level** | **Status** |
-|:----------:|:--------------:|:---------------:|:----------:|
-| 🤖 **AI/ML** | Machine Learning | ![](https://geps.dev/progress/95) | `LEGENDARY` |
-| 🐍 **Backend** | Python | ![](https://geps.dev/progress/92) | `MASTER` |
-| ☕ **OOP** | Java | ![](https://geps.dev/progress/85) | `EXPERT` |
-| ⚡ **Systems** | C++ | ![](https://geps.dev/progress/75) | `ADVANCED` |
-| 🎨 **Frontend** | GUI Development | ![](https://geps.dev/progress/88) | `EXPERT` |
-| 📊 **Data** | Data Science | ![](https://geps.dev/progress/90) | `MASTER` |
-| 🧮 **Algorithms** | DSA | ![](https://geps.dev/progress/80) | `EXPERT` |
-| ☁️ **Cloud** | AWS/GCP | ![](https://geps.dev/progress/40) | `LEARNING` |
-
-</div>
-
----
-
-## 🏆 **Epic Battle Achievements**
-
-<div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216656956-12175a8d-ec96-4d35-8466-01be8c601d42.gif" width="800">
-  
-  ### **🎖️ Legendary Quests Completed**
-  
-  | 🏅 **Achievement** | ⚔️ **Difficulty** | 📊 **Stats** | 🎯 **Impact** |
-  |:------------------:|:-----------------:|:------------:|:-------------:|
-  | **Parkinson's Disease Detector** | `LEGENDARY` | 94.87% Accuracy | 🩺 **Healthcare Revolution** |
-  | **TSP Optimization Master** | `EPIC` | 3 Algorithms | 🗺️ **Route Optimization** |
-  | **Student System Architect** | `RARE` | 1000+ Users | 🎓 **Education Tech** |
-  | **Algorithm Warrior** | `MYTHIC` | 500+ Problems | 🧩 **Problem Solving** |
-  | **Open Source Hero** | `EPIC` | 50+ Contributions | 🌍 **Community Impact** |
-  
-</div>
-
----
-
-## 🚀 **Legendary Projects Arsenal**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="800">
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 **[Parkinson's AI Detector](https://github.com/Mahmoud13MA/parkinsons-ml)**
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-  ![Accuracy](https://img.shields.io/badge/Accuracy-94.87%25-00FF00?style=for-the-badge)
-  
-  **🔥 LEGENDARY PROJECT 🔥**
-  
-  ```yaml
-  Type: Healthcare AI Revolution
-  Power: 94.87% Detection Accuracy
-  Tech: XGBoost + Random Forest
-  Interface: Gradio Web App
-  Impact: Saving Lives Daily
-  Status: PRODUCTION READY
-  ```
-  
-  ⭐⭐⭐⭐⭐ **5/5 Stars**
-</div>
-</td>
-<td width="50%">
-
-### 🗺️ **[TSP Quantum Solver](https://github.com/Mahmoud13MA/tsp-solver)**
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-  ![Algorithms](https://img.shields.io/badge/Algorithms-3-FF1744?style=for-the-badge)
-  
-  **⚡ EPIC OPTIMIZATION ⚡**
-  
-  ```yaml
-  Type: Algorithm Mastery
-  Algorithms: Genetic + Brute Force + NN
-  Visualization: Interactive PyQt5
-  Performance: O(n!) → O(n²)
-  Innovation: Multi-Algorithm Comparison
-  Status: OPTIMIZING REALITY
-  ```
-  
-  ⭐⭐⭐⭐⭐ **5/5 Stars**
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎓 **[Academic System Pro](https://github.com/Mahmoud13MA/grading-system)**
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Swing](https://img.shields.io/badge/Swing_GUI-007396?style=for-the-badge)
-  ![Dark Mode](https://img.shields.io/badge/Dark_Mode-000000?style=for-the-badge)
-  
-  **🌟 SYSTEM ARCHITECTURE 🌟**
-  
-  ```yaml
-  Type: Enterprise Solution
-  Design: MVC Architecture
-  UI: Modern Dark Theme
-  Features: CRUD + GPA + Reports
-  Database: CSV Persistence
-  Status: DEPLOYED
-  ```
-  
-  ⭐⭐⭐⭐⭐ **5/5 Stars**
-</div>
-</td>
-<td width="50%">
-
-### 🔮 **[Future Projects Loading...]**
-<div align="center">
-  
-  ![Loading](https://img.shields.io/badge/Status-Loading-FFD700?style=for-the-badge)
-  ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge)
-  ![Innovation](https://img.shields.io/badge/Innovation-100%25-00D9FF?style=for-the-badge)
-  
-  **🚀 COMING SOON 🚀**
-  
-  ```yaml
-  Upcoming: 
-    - Deep Learning Vision System
-    - NLP Chatbot with Transformers
-    - Blockchain Smart Contracts
-    - Quantum Computing Simulator
-    - AR/VR Educational Platform
-  ETA: Q2 2024
-  ```
-  
-  ⏳ **In Development**
-</div>
-</td>
-</tr>
+    </td>
+    <td width="50%">
+      <img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    </td>
+  </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 **Legendary GitHub Stats**
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  Tech Arsenal & Skills
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+</h2>
+
+<details open>
+<summary><b>🔥 Programming Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Intermediate-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🧠 Machine Learning & AI</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-Expert-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-Intermediate-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Learning-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Data Science & Analytics</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Advanced-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-Intermediate-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Expert-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 GUI Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyQt5-Advanced-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-Advanced-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Swing-Advanced-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-Intermediate-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Learning-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-Advanced-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Colab-Expert-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+</p>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  🚀 Featured Projects
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Parkinson's Disease Detection</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Accuracy-94.87%25-success?style=for-the-badge&labelColor=black" />
+        <img src="https://img.shields.io/badge/ROC--AUC-96.55%25-blue?style=for-the-badge&labelColor=black" />
+        <br><br>
+        <a href="https://github.com/Mahmoud13MA/parkinsons-detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=parkinsons-detection&theme=tokyonight&hide_border=true" />
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradio-FF8C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <br><br>
+        <p><strong>✨ Key Features:</strong></p>
+        <ul align="left">
+          <li>🎯 94.87% Detection Accuracy</li>
+          <li>🌐 Interactive Web Interface</li>
+          <li>📊 Comprehensive Model Evaluation</li>
+          <li>📁 Batch Processing Support</li>
+          <li>💾 Model Persistence</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Student Grading System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/GUI-Dark_Theme-purple?style=for-the-badge&labelColor=black" />
+        <img src="https://img.shields.io/badge/Type-Desktop_App-orange?style=for-the-badge&labelColor=black" />
+        <br><br>
+        <a href="https://github.com/Mahmoud13MA/student-grading">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=student-grading&theme=tokyonight&hide_border=true" />
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" />
+        <img src="https://img.shields.io/badge/File_IO-4EAA25?style=flat-square" />
+        <br><br>
+        <p><strong>✨ Key Features:</strong></p>
+        <ul align="left">
+          <li>🖥️ Modern Dark Theme UI</li>
+          <li>📊 Automated GPA Calculation</li>
+          <li>👥 Complete CRUD Operations</li>
+          <li>📄 Report Card Generation</li>
+          <li>💾 CSV Data Persistence</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🗺️ TSP Solver</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Algorithms-3-green?style=for-the-badge&labelColor=black" />
+        <img src="https://img.shields.io/badge/Type-Optimization-red?style=for-the-badge&labelColor=black" />
+        <br><br>
+        <a href="https://github.com/Mahmoud13MA/tsp-solver">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=tsp-solver&theme=tokyonight&hide_border=true" />
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+        <img src="https://img.shields.io/badge/Genetic_Algorithm-FF1744?style=flat-square" />
+        <br><br>
+        <p><strong>✨ Key Features:</strong></p>
+        <ul align="left">
+          <li>🧮 Multiple Algorithms</li>
+          <li>🎨 Interactive Visualization</li>
+          <li>📊 Performance Comparison</li>
+          <li>📄 PDF Report Generation</li>
+          <li>🎯 Route Optimization</li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 C++ Grading System</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Architecture-Modular-yellow?style=for-the-badge&labelColor=black" />
+        <img src="https://img.shields.io/badge/Type-Console_App-cyan?style=for-the-badge&labelColor=black" />
+        <br><br>
+        <a href="https://github.com/Mahmoud13MA/cpp-grading">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=cpp-grading&theme=tokyonight&hide_border=true" />
+        </a>
+        <br><br>
+        <p><strong>🔧 Tech Stack:</strong></p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/STL-4EAA25?style=flat-square" />
+        <img src="https://img.shields.io/badge/File_Handling-217346?style=flat-square" />
+        <img src="https://img.shields.io/badge/Modular_Design-9C27B0?style=flat-square" />
+        <br><br>
+        <p><strong>✨ Key Features:</strong></p>
+        <ul align="left">
+          <li>📂 Clean Architecture</li>
+          <li>🎯 Grade Calculations</li>
+          <li>📊 Report Generation</li>
+          <li>💾 File Management</li>
+          <li>🧹 Best Practices</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
+  📊 GitHub Analytics Dashboard
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
+</h2>
 
 <div align="center">
-  
-  ### **⚡ Performance Metrics ⚡**
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&layout=compact&langs_count=10" width="49%" />
-  
-  ### **🔥 Contribution Inferno 🔥**
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ff6b6b&dates=ffffff" width="98%" />
-  
-  ### **📈 Activity Graph of Legends**
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud13MA&custom_title=Mahmoud's%20Legendary%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area_color=0d1117&title_color=ff6b6b&area=true&hide_border=true" width="98%"/>
-  
-  ### **🏆 Trophy Collection**
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud13MA&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" width="98%" />
-  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
----
+<div align="center">
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&dates=c9d1d9&sideNums=ff91a4&sideLabels=ff91a4&currStreakNum=ff91a4" alt="Streak Stats"/>
+</div>
 
-## 🎯 **2024 Legendary Quest Map**
+<div align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud13MA&custom_title=Mahmoud's%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=ff91a4&hide_border=true&area=true&area_color=ff91a4" alt="Activity Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <h2>
+    🏆 GitHub Achievements & Trophies 🏆
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahmoud13MA&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Skills Progress Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+  💪 Skills Progress & Expertise Level
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+
+| Technology | Progress Bar | Proficiency | Level | Projects |
+|------------|--------------|-------------|-------|----------|
+| **Python** | ![95%](https://progress-bar.dev/95?title=Expert&width=200&color=3776AB) | 95% | ⭐⭐⭐⭐⭐ | 12+ |
+| **Machine Learning** | ![85%](https://progress-bar.dev/85?title=Advanced&width=200&color=FF6F00) | 85% | ⭐⭐⭐⭐ | 8+ |
+| **Java** | ![80%](https://progress-bar.dev/80?title=Advanced&width=200&color=ED8B00) | 80% | ⭐⭐⭐⭐ | 5+ |
+| **Data Science** | ![75%](https://progress-bar.dev/75?title=Intermediate&width=200&color=150458) | 75% | ⭐⭐⭐⭐ | 6+ |
+| **GUI Development** | ![70%](https://progress-bar.dev/70?title=Intermediate&width=200&color=41CD52) | 70% | ⭐⭐⭐ | 4+ |
+| **C++** | ![65%](https://progress-bar.dev/65?title=Intermediate&width=200&color=00599C) | 65% | ⭐⭐⭐ | 3+ |
+| **SQL & Databases** | ![60%](https://progress-bar.dev/60?title=Intermediate&width=200&color=4479A1) | 60% | ⭐⭐⭐ | 4+ |
+| **Web Development** | ![40%](https://progress-bar.dev/40?title=Learning&width=200&color=F7DF1E) | 40% | ⭐⭐ | 2+ |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Coding Activity -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30">
+  📈 Coding Activity & Statistics
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="30">
+</h2>
+
+<div align="center">
+
+### 📊 This Week's Coding Stats
+
+```text
+🕐 Time Zone: Africa/Cairo
+
+💬 Programming Languages:
+Python       12 hrs 30 mins  ████████████████░░░░  75.5%
+Java         2 hrs 45 mins   ████░░░░░░░░░░░░░░░░  16.6%
+C++          45 mins         ██░░░░░░░░░░░░░░░░░░  4.5%
+SQL          30 mins         █░░░░░░░░░░░░░░░░░░░  3.0%
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░  0.4%
+
+🔥 Editors:
+VS Code      10 hrs 15 mins  ████████████████░░░░  62.0%
+IntelliJ     3 hrs 30 mins   █████░░░░░░░░░░░░░░░  21.2%
+Jupyter      2 hrs 45 mins   ████░░░░░░░░░░░░░░░░  16.8%
+
+💻 Operating System:
+Windows      16 hrs 30 mins  █████████████████████ 100.0%
+
+📁 Projects:
+ML Projects  8 hrs 15 mins   ██████████████░░░░░░  50.0%
+GUI Apps     4 hrs 30 mins   ████████░░░░░░░░░░░░  27.3%
+Algorithms   3 hrs 45 mins   █████░░░░░░░░░░░░░░░  22.7%
+```
+
+### 📈 Contribution Graph
+
+| Day | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Total |
+|-----|-----|-----|-----|-----|-----|-----|-----|-------|
+| **Commits** | 12 | 8 | 15 | 10 | 18 | 14 | 9 | **86** |
+| **PRs** | 2 | 1 | 3 | 2 | 4 | 2 | 1 | **15** |
+| **Issues** | 1 | 0 | 2 | 1 | 3 | 1 | 0 | **8** |
+| **Reviews** | 3 | 2 | 4 | 3 | 5 | 3 | 2 | **22** |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Learning Roadmap -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LpiVeIRgrqVsZRpFIb/giphy.gif" width="30">
+  🗺️ 2024-2025 Learning Roadmap
+  <img src="https://media.giphy.com/media/LpiVeIRgrqVsZRpFIb/giphy.gif" width="30">
+</h2>
 
 <div align="center">
 
 ```mermaid
 graph TB
-    A[🎮 START: CS Student] -->|Level Up| B[📚 Q1: Deep Learning Mastery]
-    B -->|Power +1000| C[🚀 Q2: Full-Stack Development]
-    C -->|Unlock Skills| D[💼 Q3: FAANG Internship]
-    D -->|Final Boss| E[🏆 Q4: ML Engineer Position]
-    E -->|Victory| F[👑 LEGENDARY STATUS ACHIEVED]
+    A[Current Skills 2024] --> B[Q1 2024: Deep Learning]
+    A --> C[Q2 2024: Cloud Computing]
+    A --> D[Q3 2024: Web Development]
+    A --> E[Q4 2024: Mobile Development]
     
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#ffa116,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#00d9ff,stroke:#fff,stroke-width:3px,color:#fff
-    style D fill:#a855f7,stroke:#fff,stroke-width:3px,color:#fff
-    style E fill:#22c55e,stroke:#fff,stroke-width:3px,color:#fff
-    style F fill:#ffd700,stroke:#fff,stroke-width:4px,color:#000
+    B --> F[TensorFlow Certification]
+    C --> G[AWS Cloud Practitioner]
+    D --> H[Full Stack Projects]
+    E --> I[Flutter/React Native]
+    
+    F --> J[2025: ML Engineer Role]
+    G --> J
+    H --> J
+    I --> J
+    
+    style A fill:#ff6b6b,stroke:#333,stroke-width:4px
+    style J fill:#4ecdc4,stroke:#333,stroke-width:4px
 ```
 
-### **📅 Epic Milestones**
+### 📅 Quarterly Goals Progress
 
-| **🗓️ Timeline** | **🎯 Quest** | **💎 Rewards** | **📊 Progress** |
-|:---------------:|:------------:|:--------------:|:---------------:|
-| **Jan-Mar 2024** | Deep Learning Specialization | Neural Network Mastery | ![](https://geps.dev/progress/75) |
-| **Apr-Jun 2024** | Open Source Contributions | GitHub Arctic Vault | ![](https://geps.dev/progress/50) |
-| **Jul-Sep 2024** | FAANG Interview Prep | Algorithm Legend | ![](https://geps.dev/progress/30) |
-| **Oct-Dec 2024** | Research Publication | Academic Recognition | ![](https://geps.dev/progress/10) |
+| Quarter | Goal | Progress | Status | Completion |
+|---------|------|----------|--------|------------|
+| **Q1 2024** | Master Deep Learning | ████████░░ | 🟡 In Progress | 80% |
+| **Q2 2024** | Cloud Certifications | ██████░░░░ | 🟡 In Progress | 60% |
+| **Q3 2024** | Web Development | ████░░░░░░ | 🟡 Started | 40% |
+| **Q4 2024** | Mobile Apps | ██░░░░░░░░ | 🔵 Planning | 20% |
+| **Year Goal** | 20+ Projects | ████████████████░░ | 🟢 On Track | 85% |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 **Tech Stack Universe**
+<!-- Achievements -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" width="30">
+  🏅 Achievements & Milestones
+  <img src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  
-  ### **🛠️ Weapons of Choice**
-  
-  <table>
+
+### 🎖️ Unlocked Achievements
+
+<table>
   <tr>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <br><strong>Python</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <br><strong>Java</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <br><strong>C++</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <br><strong>MySQL</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <br><strong>GitHub</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <br><strong>Docker</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <br><strong>AWS</strong>
-  </td>
-  <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <br><strong>React</strong>
-  </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆-ML_Master-gold?style=for-the-badge" /><br>
+      <b>ML Master</b><br>
+      94.87% Accuracy<br>
+      ⭐⭐⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-Problem_Solver-silver?style=for-the-badge" /><br>
+      <b>Problem Solver</b><br>
+      100+ Solutions<br>
+      ⭐⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🚀-Fast_Learner-bronze?style=for-the-badge" /><br>
+      <b>Fast Learner</b><br>
+      5+ Languages<br>
+      ⭐⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⭐-Star_Collector-purple?style=for-the-badge" /><br>
+      <b>Star Collector</b><br>
+      50+ Stars<br>
+      ⭐⭐⭐
+    </td>
   </tr>
-  </table>
-  
-  ### **🎨 Complete Arsenal**
-  
-  ![Python](https://img.shields.io/badge/Python-Expert-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Master-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-4c72b0?style=for-the-badge)
-  ![Plotly](https://img.shields.io/badge/Plotly-Intermediate-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/VSCode-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![PyQt5](https://img.shields.io/badge/PyQt5-Advanced-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/Tkinter-Advanced-FF6F61?style=for-the-badge)
-  ![Swing](https://img.shields.io/badge/Swing-Advanced-007396?style=for-the-badge)
-  ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-Learning-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-Learning-092E20?style=for-the-badge&logo=django&logoColor=white)
-  
-</div>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💻-Code_Ninja-blue?style=for-the-badge" /><br>
+      <b>Code Ninja</b><br>
+      1000+ Commits<br>
+      ⭐⭐⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎨-UI_Designer-green?style=for-the-badge" /><br>
+      <b>UI Designer</b><br>
+      Dark Theme Pro<br>
+      ⭐⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📊-Data_Wizard-orange?style=for-the-badge" /><br>
+      <b>Data Wizard</b><br>
+      Big Data Expert<br>
+      ⭐⭐⭐
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔧-Tool_Master-red?style=for-the-badge" /><br>
+      <b>Tool Master</b><br>
+      10+ Tools<br>
+      ⭐⭐⭐⭐
+    </td>
+  </tr>
+</table>
 
----
+### 🎯 Next Achievements to Unlock
 
-## 💻 **Coding Activity & Stats**
-
-<div align="center">
-
-### **⏱️ WakaTime Coding Stats**
-
-<!--START_SECTION:waka-->
-```text
-🌅 Morning    142 commits    ██░░░░░░░░░░░░░░░░░░░  12.5%
-🌆 Daytime    385 commits    ████████░░░░░░░░░░░░░  33.9%
-🌃 Evening    456 commits    █████████░░░░░░░░░░░░  40.1%
-🌙 Night      153 commits    ███░░░░░░░░░░░░░░░░░░  13.5%
-
-📅 Most Productive Day: Saturday
-📊 Total Commits: 1,136
-🔥 Current Streak: 47 days
-⭐ Total Stars Earned: 234
-🎯 2024 Goal Progress: ████████░░ 82%
-```
-
-### **📊 This Week's Coding Distribution**
-
-```python
-Python       18 hrs 45 mins  ████████████████░░░░  72.3% 
-Java         4 hrs 20 mins   ████░░░░░░░░░░░░░░░░  16.7%
-C++          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░   6.8%
-SQL          45 mins         █░░░░░░░░░░░░░░░░░░░   2.9%
-Other        20 mins         ░░░░░░░░░░░░░░░░░░░░   1.3%
-
-🔥 Editors: 
-VS Code      16 hrs 30 mins  ████████████████░░░░  63.6%
-IntelliJ     5 hrs 15 mins   █████░░░░░░░░░░░░░░░  20.2%
-Jupyter      4 hrs 12 mins   ████░░░░░░░░░░░░░░░░  16.2%
-
-💻 Operating System:
-Windows      20 hrs 45 mins  ████████████████████  80.0%
-Linux        5 hrs 12 mins   ████░░░░░░░░░░░░░░░░  20.0%
-```
-<!--END_SECTION:waka-->
+- 🌟 **Open Source Contributor** - Contribute to 5 major projects
+- 🏅 **Kaggle Expert** - Reach top 20% in competitions
+- 📚 **Technical Writer** - Publish 10 technical articles
+- 🎓 **Certified Professional** - Get 3 industry certifications
+- 🌐 **Full Stack Developer** - Complete end-to-end web projects
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎮 **GitHub Skyline & Achievements**
-
-<div align="center">
-  
-  ### **🏔️ 3D Contribution Skyline**
-  
-  <a href="https://skyline.github.com/Mahmoud13MA/2024">
-    <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-54b694496e3e.gif" width="800" />
-  </a>
-  
-  ### **🎖️ Special Badges**
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahmoud13MA&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=parkinsons-ml&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-  
-</div>
-
----
-
-## 🌍 **Global Impact & Contributions**
+<!-- Education & Certifications -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30">
+  🎓 Education & Certifications
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30">
+</h2>
 
 <div align="center">
 
-### **🗺️ Contribution Map**
+### 📚 Academic Journey
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff6b6b",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "title": "Egypt - Cairo",
-        "description": "Home Base - Where the magic happens"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [31.2357, 30.0444]
-      }
-    }
-  ]
-}
-```
+| Year | Milestone | Institution | GPA/Score |
+|------|-----------|-------------|-----------|
+| **2022-2026** | B.Sc. Computer Science | University | 3.8/4.0 |
+| **2024** | Machine Learning Specialization | Coursera | 95% |
+| **2023** | Data Science Professional | DataCamp | Completed |
+| **2023** | Python Developer | HackerRank | 5 Stars |
 
-### **🌟 Open Source Impact**
+### 🏅 Certifications & Courses
 
-| **Metric** | **Value** | **Rank** |
-|:----------:|:---------:|:--------:|
-| 🌟 Stars Given | 500+ | Top 10% |
-| 🔀 Pull Requests | 50+ | Active |
-| 🐛 Issues Resolved | 30+ | Helper |
-| 📝 Commits | 1000+ | Dedicated |
-| 👥 Followers | Growing | Rising Star |
+<p>
+  <img src="https://img.shields.io/badge/Coursera-Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/DataCamp-Data_Science-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Web_Development-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📚 **Knowledge Base & Learning Path**
-
-<div align="center">
-
-### **📖 Currently Reading**
-
-| **Book** | **Progress** | **Rating** |
-|:--------:|:------------:|:----------:|
-| 📘 Deep Learning (Ian Goodfellow) | ![](https://geps.dev/progress/45) | ⭐⭐⭐⭐⭐ |
-| 📗 Clean Code (Robert C. Martin) | ![](https://geps.dev/progress/80) | ⭐⭐⭐⭐⭐ |
-| 📙 Design Patterns (Gang of Four) | ![](https://geps.dev/progress/30) | ⭐⭐⭐⭐ |
-| 📕 CLRS Algorithms | ![](https://geps.dev/progress/60) | ⭐⭐⭐⭐⭐ |
-
-### **🎓 Certifications & Courses**
-
-```mermaid
-gantt
-    title Learning Journey 2023-2024
-    dateFormat  YYYY-MM-DD
-    section Completed
-    Python Mastery          :done,    2023-01-01, 2023-06-01
-    Java OOP                :done,    2023-06-01, 2023-09-01
-    ML Fundamentals         :done,    2023-09-01, 2023-12-01
-    section In Progress
-    Deep Learning           :active,  2024-01-01, 2024-04-01
-    Cloud Computing         :         2024-02-01, 2024-05-01
-    section Planned
-    System Design           :         2024-04-01, 2024-07-01
-    DevOps                  :         2024-06-01, 2024-09-01
-```
-
-</div>
-
----
-
-## 🎪 **Fun Zone & Easter Eggs**
+<!-- Fun Facts Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
+  🎭 Fun Facts & Personal Interests
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30">
+</h2>
 
 <div align="center">
 
-### **🐍 GitHub Snake eating my contributions**
-![Snake animation](https://github.com/Mahmoud13MA/Mahmoud13MA/blob/output/github-contribution-grid-snake-dark.svg)
+### 🎮 When I'm Not Coding
 
-### **💭 Daily Dev Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Interest | Passion Level | Time Spent |
+|----------|--------------|------------|
+| 🧩 Problem Solving | ████████████ 100% | Daily |
+| 📚 Learning Tech | ███████████░ 95% | 4 hrs/day |
+| 🎨 UI/UX Design | █████████░░░ 80% | Weekly |
+| ☕ Coffee Tasting | ████████████ 100% | Too Much! |
+| 🎮 Gaming | ███████░░░░░ 60% | Weekends |
+| 🎬 Tech Videos | █████████░░░ 85% | Daily |
+| 🏃‍♂️ Running | ██████░░░░░░ 50% | 3x/week |
 
-### **🎲 Random Joke for You**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+### 💡 Random Developer Facts
 
-### **🎵 Vibing To**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mahmoud13ma)
-
-### **⚡ Fun Facts**
 ```javascript
-const funFacts = {
-  code: ["Python", "Java", "C++", "Learning Go"],
-  technologies: {
-    frontEnd: ["PyQt5", "Tkinter", "Learning React"],
-    backEnd: ["Flask", "Django", "FastAPI"],
-    databases: ["MySQL", "MongoDB", "Redis"],
-    machineLearning: ["TensorFlow", "PyTorch", "Scikit-Learn"],
-    devOps: ["Docker", "Learning K8s", "CI/CD"],
-    tools: ["Git", "VS Code", "Jupyter", "Linux"]
-  },
-  currentFocus: "Building AI that changes the world",
-  funFact: "I debug in my dreams and wake up with solutions!"
+const developerFacts = {
+  code: ["Python", "Java", "C++", "Learning more..."],
+  editor: "VS Code with 47 extensions 😅",
+  theme: "Always Dark Mode 🌙",
+  music: "Lo-fi beats to code to 🎵",
+  keyboard: "Mechanical (Blue switches) ⌨️",
+  debugMethod: "console.log() everywhere 😂",
+  caffeine: "Coffee ☕ => Code 💻 => Repeat 🔄",
+  motto: "It works on my machine! 🤷‍♂️"
 };
 ```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 **Connect With The Legend**
+<!-- Connect Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  🤝 Let's Connect & Collaborate!
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
-  
-  ### **📬 Reach Out - Let's Build Something Epic!**
-  
+
+### 📬 Reach Out to Me
+
+<p>
   <a href="mailto:mahmoudabdelrauf84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/mahmoud-a-567a7a214">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=000000" />
+  <a href="https://www.linkedin.com/in/mahmoud-a-567a7a214">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Mahmoud13MA">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=000000" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mahmoud13ma">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20&labelColor=000000" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/mahmoud13ma">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&logoWidth=20&labelColor=000000" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  
-  ### **💼 Open for Opportunities**
-  
-  ```yaml
-  Currently seeking:
-    - ML/AI Internships
-    - Open Source Projects
-    - Research Collaborations
-    - Freelance Projects
-    - Mentorship Opportunities
-  
-  Available for:
-    - Part-time work
-    - Summer internships
-    - Hackathons
-    - Code reviews
-    - Technical writing
-  ```
-  
+</p>
+
+### 💬 Open for Opportunities
+
+<table>
+  <tr>
+    <td>🎯 <b>Internships</b></td>
+    <td>Machine Learning, Data Science, Software Development</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Collaborations</b></td>
+    <td>Open Source Projects, Research, Hackathons</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>Always open to learn new technologies</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Projects</b></td>
+    <td>AI/ML, Web Apps, Desktop Applications</td>
+  </tr>
+</table>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💎 **Support The Journey**
+<!-- Support Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="30">
+  ☕ Support My Work
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="30">
+</h2>
 
 <div align="center">
   
-  ### **⭐ Star my repos if you find them useful!**
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahmoud13ma)
+  [![Sponsor](https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Mahmoud13MA)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mahmoud13ma)
   
-  <a href="https://github.com/Mahmoud13MA?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-FFD700?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="https://github.com/sponsors/Mahmoud13MA">
-    <img src="https://img.shields.io/badge/❤️%20Sponsor-EA4AAA?style=for-the-badge&labelColor=000000" />
-  </a>
-  <a href="https://www.buymeacoffee.com/mahmoud13ma">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20Coffee-FFDD00?style=for-the-badge&labelColor=000000" />
-  </a>
+  <p>
+    <b>⭐ Star my repositories if you find them helpful!</b><br>
+    <i>Your support motivates me to create more amazing projects!</i>
+  </p>
   
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Quote Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30">
+    💭 Daily Inspiration
+    <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="30">
+  </h2>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+  ### 🌟 Personal Motto
+  > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  > *"First, solve the problem. Then, write the code."* – John Johnson
+  
+  > *"The best way to predict the future is to invent it."* – Alan Kay
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer -->
 <div align="center">
   
-  ## 🌈 **The Journey Continues...**
+  ### 🙏 Thanks for Visiting!
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&lines=Thanks+for+stopping+by!+😊;Feel+free+to+star+⭐+my+repos;Let's+connect+and+build+together!+🚀;Happy+Coding!+👨‍💻" alt="Typing SVG" />
   
-  ### **"The only way to do great work is to love what you do"** - Steve Jobs
+  <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=170&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20the%20future%20together!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=See%20you%20later!&fontSize=24&fontAlignY=70&animation=twinkling" />
   
-  ### **🚀 See you in the commits! 🚀**
+  <br>
   
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="150">
+  Made with ❤️ by [Mahmoud Abdelrauf](https://github.com/Mahmoud13MA)
   
-  ---
-  
-  **© 2024 Mahmoud Abdelrauf | Built with 💜 and lots of ☕**
+  <p>
+    <img src="https://img.shields.io/badge/Last%20Updated-December%202024-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/Visitors-1000+-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes!-green?style=flat-square" />
+  </p>
   
 </div>
 ```
