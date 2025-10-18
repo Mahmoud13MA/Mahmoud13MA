@@ -1,8 +1,17 @@
-# <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="60"> **MAHMOUD ABDELRAUF**
+# <div align="center">
+  
+```diff
+@@     ╔═══════════════════════════════════════════════════════════╗     @@
+@@     ║                   MAHMOUD ABDELRAUF                        ║     @@
+@@     ║              Machine Learning Engineer                     ║     @@
+@@     ╚═══════════════════════════════════════════════════════════╝     @@
+```
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&pause=1000&color=FF6B6B&background=0D111700&center=true&vCenter=true&random=false&width=600&lines=MAHMOUD+ABDELRAUF" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=3rd+Year+CS+Student+🎓;Machine+Learning+Engineer+🤖;94.87%25+ML+Accuracy+Achieved+🎯)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=600&lines=3rd+Year+CS+Student+🎓;Machine+Learning+Engineer+🤖;94.87%25+ML+Accuracy+Achieved+🎯;Building+AI+Solutions+💡)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&color=FF6B6B&style=flat-square&label=Profile+Views" />
@@ -13,6 +22,78 @@
 </p>
 
 </div>
+
+---
+
+**أو يمكنك استخدام هذا التصميم البديل:**
+
+<div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="40"> M A H M O U D &nbsp; A B D E L R A U F <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="40">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Machine Learning Engineer** | **3rd Year CS Student** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+</div>
+
+---
+
+**أو تصميم آخر أكثر حداثة:**
+
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF6B6B&size=40&center=true&lines=MAHMOUD+ABDELRAUF;Machine+Learning+Engineer;Problem+Solver;Innovation+Creator" alt="Title">
+</h1>
+
+### 🚀 Building Tomorrow's AI Today 🚀
+
+</div>
+
+---
+
+**أو تصميم بسيط وأنيق:**
+
+```yaml
+╭─────────────────────────────────────────────────────────────────╮
+│                                                                 │
+│                     MAHMOUD ABDELRAUF                          │
+│                  Machine Learning Engineer                     │
+│                    3rd Year CS Student                         │
+│                                                                 │
+╰─────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+**أو تصميم ثلاثي الأبعاد:**
+
+<div align="center">
+
+[![](https://svg-banners.vercel.app/api?type=luminance&text1=MAHMOUD%20ABDELRAUF%20🚀&width=800&height=200)](https://github.com/Mahmoud13MA)
+
+</div>
+
+---
+
+**أو تصميم نيون متحرك:**
+
+<div align="center">
+
+# <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&random=false&width=700&height=100&lines=⚡+MAHMOUD+ABDELRAUF+⚡" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+**`Machine Learning Engineer`** • **`Problem Solver`** • **`Innovation Creator`**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+
+</div>
+
+---
+
+**اختر التصميم الذي يناسبك أكثر، ويمكنني تخصيص أي منها حسب رغبتك!**
+
+**باقي الكود يبقى كما هو:**
 
 ## 🚀 **About Me**
 
