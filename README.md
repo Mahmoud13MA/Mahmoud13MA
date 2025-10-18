@@ -1,218 +1,151 @@
 <div align="center">
 
-<!-- Clean Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12a8fa,100:30cfd0&height=120&text=MAHMOUD%20ABDELRAUF&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%203rd%20Year%20CS%20Student&descSize=18&descAlignY=58&descAlign=50"/>
+<!-- Batman Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:1a1a1a&height=200&text=🦇%20THE%20DARK%20KNIGHT%20CODER%20🦇&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=MAHMOUD%20ABDELRAUF%20|%20Guardian%20of%20Clean%20Code&descSize=20&descAlignY=55&descAlign=50"/>
 
-<!-- Quick Stats -->
+<!-- Bat Signal Animation -->
+<img src="https://i.imgur.com/4M34hi2.png" width="100" height="100" alt="Batman Logo">
+
+<!-- Gotham Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Mahmoud13MA?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/Mahmoud13MA?label=Stars&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&label=Gotham%20Citizens%20Watching&color=FFD700&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Mahmoud13MA?label=Bat%20Family&style=for-the-badge&color=000000&labelColor=FFD700" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/Mahmoud13MA?color=FFD700&style=for-the-badge&labelColor=000000&logo=star&label=Bat%20Stars"/>
 </p>
 
-<!-- Social Links -->
+<!-- Bat Cave Communication -->
 <p>
-  <a href="https://linkedin.com/in/mahmoud-a-567a7a214"><img src="https://img.shields.io/badge/-LinkedIn-0e75b6?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:mahmoudabdelrauf84@gmail.com"><img src="https://img.shields.io/badge/-Email-0e75b6?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mahmoud13MA"><img src="https://img.shields.io/badge/-GitHub-0e75b6?style=flat&logo=GitHub&logoColor=white"/></a>
-  <a href="https://twitter.com/mahmoud13ma"><img src="https://img.shields.io/badge/-Twitter-0e75b6?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mahmoud-a-567a7a214">
+    <img src="https://img.shields.io/badge/Wayne%20Enterprises-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+  </a>
+  <a href="mailto:mahmoudabdelrauf84@gmail.com">
+    <img src="https://img.shields.io/badge/Bat%20Signal-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  </a>
+  <a href="https://github.com/Mahmoud13MA">
+    <img src="https://img.shields.io/badge/Bat%20Cave-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+  </a>
+  <a href="https://twitter.com/mahmoud13ma">
+    <img src="https://img.shields.io/badge/Gotham%20News-FFD700?style=for-the-badge&logo=twitter&logoColor=000000"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🦇 THE BATMAN ORIGIN STORY
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Batman Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 **3rd Year Computer Science Student**
-- 🤖 **Machine Learning Enthusiast**
-- 🎯 **94.87% ML Accuracy Achieved**
-- 💡 **25+ Projects Completed**
-- 🌱 **Currently Learning Deep Learning & Full-Stack**
-- 🔍 **Looking for ML/AI Internship Opportunities**
-- 📍 **Based in Egypt** 🇪🇬
+```ascii
+    |\                     /)
+   /\_\\__               (_//
+  |   `>\-`     _._       //`)
+   \ /` \\  _.-`:::`-._  //
+    `    \|`    :::    `|/
+          |     :::     |
+          |.....:::.....|
+          |:::::::::::::|  MAHMOUD ABDELRAUF
+          |     :::     |  The Dark Knight of Code
+          \     :::     /
+           \    :::    /
+            `-. ::: .-'
+             //`:::`\\
+            //   '   \\
+           |/         \\
+🌃 GOTHAM'S TECH VIGILANTE
+🦇 Identity: 3rd Year CS Student by Day, ML Engineer by Night
+🏰 Bat Cave Location: Egypt 🇪🇬
+⚡ Superpower: 94.87% ML Accuracy (Better than Joker's chaos rate!)
+🎯 Mission: 25+ Crime-Fighting Projects Completed
+🔧 Currently Building: Deep Learning Bat-Gadgets
+💼 Wayne Enterprises Status: Seeking ML/AI Internship
+🌙 Night Patrol: Debugging Code & Fighting Bugs
+Python
 
-```python
-mahmoud = {
-    "code": ["Python", "Java", "C++", "SQL"],
-    "ml_stack": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost"],
-    "tools": ["Git", "Docker", "Linux", "Jupyter"],
-    "interests": ["AI", "Deep Learning", "Problem Solving"]
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
+class DarkKnight:
+    def __init__(self):
+        self.name = "Mahmoud Abdelrauf"
+        self.alias = "The Code Crusader"
+        self.base = "Bat Cave, Egypt"
+        self.gadgets = {
+            "languages": ["Python", "Java", "C++", "SQL"],
+            "ml_arsenal": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost"],
+            "bat_tools": ["Git", "Docker", "Linux", "Jupyter"],
+            "utilities": ["Batarang", "Grappling Hook", "Smoke Bombs"]
+        }
+    
+    def fight_bugs(self):
+        return "I am vengeance. I am the night. I am... debugging!"
+🦇 BAT-TECH ARSENAL
 <div align="center">
+⚡ UTILITY BELT - PROGRAMMING LANGUAGES
+Python
+Java
+C++
+SQL
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+🤖 BAT-COMPUTER AI SYSTEMS
+TensorFlow
+PyTorch
+scikit-learn
+Pandas
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+🔧 WAYNE TECH EQUIPMENT
+Git
+Docker
+Linux
+Flask
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
+🌃 GOTHAM'S GREATEST MISSIONS
+<div align="center"> <table style="background-color: #1a1a1a; border: 2px solid #FFD700;"> <tr> <td width="50%" valign="top" style="background-color: #0d0d0d;"> <h3 align="center">🦇 PROJECT: ARKHAM DETECTOR</h3> <h4 align="center" style="color: #FFD700;">Parkinson's Detection AI</h4> <br /> <p align="center"> <img src="https://img.shields.io/badge/Success%20Rate-94.87%25-FFD700?style=for-the-badge&labelColor=000000" /> <br> <img src="https://img.shields.io/badge/Status-VILLAIN%20CAPTURED-00FF00?style=flat-square&labelColor=000000" /> </p> <p align="center"> <strong>🎯 Mission Brief:</strong><br> Developed an AI system to detect early signs of Parkinson's,<br> protecting Gotham's citizens from neurological threats </p> <p align="center"> <a href="https://github.com/Mahmoud13MA/parkinsons-ml"> <img src="https://img.shields.io/badge/View%20Mission%20Files-000000?style=for-the-badge&logo=github&logoColor=FFD700"/> </a> </p> </td> <td width="50%" valign="top" style="background-color: #0d0d0d;"> <h3 align="center">🦇 PROJECT: GOTHAM ROUTER</h3> <h4 align="center" style="color: #FFD700;">TSP Optimizer</h4> <br /> <p align="center"> <img src="https://img.shields.io/badge/Algorithms-3%20Bat%20Strategies-FFD700?style=for-the-badge&labelColor=000000" /> <br> <img src="https://img.shields.io/badge/Status-ROUTE%20OPTIMIZED-00FF00?style=flat-square&labelColor=000000" /> </p> <p align="center"> <strong>🎯 Mission Brief:</strong><br> Created an advanced pathfinding system for<br> optimal Batmobile routes through Gotham City </p> <p align="center"> <a href="https://github.com/Mahmoud13MA/tsp-solver"> <img src="https://img.shields.io/badge/View%20Mission%20Files-000000?style=for-the-badge&logo=github&logoColor=FFD700"/> </a> </p> </td> </tr> </table> </div>
+📊 GOTHAM CRIME STATISTICS
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Parkinson's Detection AI</h3>
-      <br />
-      <a href="https://github.com/Mahmoud13MA/parkinsons-ml">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=parkinsons-ml&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Accuracy-94.87%25-00D9FF?style=flat" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-189FFF?style=flat" />
-      </p>
-      <p><strong>ML model for early Parkinson's detection using voice biomarkers</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ TSP Optimizer</h3>
-      <br />
-      <a href="https://github.com/Mahmoud13MA/tsp-solver">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud13MA&repo=tsp-solver&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Algorithms-3-00D9FF?style=flat" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white" />
-      </p>
-      <p><strong>Advanced TSP solver with multiple algorithms and GUI</strong></p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=react&hide_border=true"/>
+🌙 NIGHT PATROL ACTIVITY
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&langs_count=8&theme=dark&hide_border=false&bg_color=0d0d0d&title_color=FFD700&text_color=ffffff&border_color=FFD700"/>
+🦇 VIGILANTE STREAK
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=black-ice&hide_border=false&stroke=FFD700&background=0d0d0d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=FFD700"/>
+🌃 GOTHAM ACTIVITY MONITOR
+Activity Graph
 
 </div>
+🎯 2024 BATMAN'S JUSTICE LEAGUE GOALS
+<div align="center"><table style="background-color: #0d0d0d; border: 2px solid #FFD700;"> <tr style="background-color: #1a1a1a;"> <th style="color: #FFD700;">🦇 Mission</th> <th style="color: #FFD700;">⚡ Progress</th> <th style="color: #FFD700;">🎯 Status</th> </tr> <tr> <td>🧠 Master the Bat-Computer (Deep Learning)</td> <td><img src="https://progress-bar.dev/80/?title=&width=200&color=FFD700"/></td> <td>🔥 IN PURSUIT</td> </tr> <tr> <td>💻 Build Bat-Gadgets (10+ ML Projects)</td> <td><img src="https://progress-bar.dev/60/?title=&width=200&color=FFD700"/></td> <td>⚡ DEPLOYING</td> </tr> <tr> <td>🥷 Train with Ra's al Ghul (500 LeetCode)</td> <td><img src="https://progress-bar.dev/40/?title=&width=200&color=FFD700"/></td> <td>💪 TRAINING</td> </tr> <tr> <td>🏢 Join Wayne Enterprises (FAANG)</td> <td><img src="https://progress-bar.dev/30/?title=&width=200&color=FFD700"/></td> <td>📚 PREPARING</td> </tr> <tr> <td>🎓 Graduate from Bat Academy</td> <td><img src="https://progress-bar.dev/75/?title=&width=200&color=FFD700"/></td> <td>✨ ON TRACK</td> </tr> </table></div>
+🦇 THE BAT-SIGNAL IS LIT FOR
+<div align="center"><table> <tr> <td align="center" width="25%" style="background-color: #0d0d0d;"> <img src="https://img.icons8.com/color/96/000000/batman-old.png" width="60"/> <br><strong style="color: #FFD700;">ML/AI Internships</strong> <br><small>Join the Bat Family</small> </td> <td align="center" width="25%" style="background-color: #0d0d0d;"> <img src="https://img.icons8.com/color/96/000000/bat.png" width="60"/> <br><strong style="color: #FFD700;">Justice League Projects</strong> <br><small>Open Source Missions</small> </td> <td align="center" width="25%" style="background-color: #0d0d0d;"> <img src="https://img.icons8.com/color/96/000000/batman-new.png" width="60"/> <br><strong style="color: #FFD700;">Alliance Building</strong> <br><small>Team Collaborations</small> </td> <td align="center" width="25%" style="background-color: #0d0d0d;"> <img src="https://img.icons8.com/color/96/000000/joker.png" width="60"/> <br><strong style="color: #FFD700;">Villain Hunting</strong> <br><small>Bug Fixing Partners</small> </td> </tr> </table>
+🌃 GOTHAM NEEDS YOU!
+<img src="https://img.shields.io/badge/📍%20Bat%20Cave-Egypt-FFD700?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/💼%20Available-Night%20Shift%20(Remote)-FFD700?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/📧%20Bat%20Signal-mahmoudabdelrauf84@gmail.com-FFD700?style=for-the-badge&labelColor=000000"/></div>
+🦇 ALFRED'S DAILY BRIEFING
+<div align="center" style="background-color: #0d0d0d; padding: 20px; border: 2px solid #FFD700;">
+text
 
----
-
-## 📈 Contribution Graph
-
+╔═══════════════════════════════════════════════════════════╗
+║                    WAYNE MANOR BULLETIN                    ║
+╠═══════════════════════════════════════════════════════════╣
+║ 🔭 Current Mission: Deep Learning Villain Detection        ║
+║ 🌱 Training: Transformers & GANs Combat Techniques        ║
+║ 👥 Recruiting: ML Research League Members                 ║
+║ 💬 Ask Batman About: ML, Python, Crime Fighting Algorithms║
+║ ⚡ Fun Fact: Even Batman uses print() for debugging!      ║
+╚═══════════════════════════════════════════════════════════╝
+</div>
+🎵 GOTHAM CITY RADIO
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud13MA&theme=react-dark&hide_border=true&area=true)
+🦇 Currently Playing in the Batmobile
+spotify-github-profile
+
+💭 Wisdom from the Dark Knight
+
 
 </div>
-
----
-
-## 🎯 2024 Goals & Progress
-
+🏆 BATMAN'S TROPHY COLLECTION
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Mahmoud13MA&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7&title=Commits,Followers,PullRequest,Stars,Repositories,Issues,MultiLanguage"/></div>
 <div align="center">
+🦇 THE DARK KNIGHT RISES
+<img src="https://media.giphy.com/media/l41YqKTI3pFKuI9CE/giphy.gif" width="500">
+"Why do we fall? So we can learn to pick ourselves up."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:000000,100:FFD700&height=120&section=footer&text=The%20Night%20is%20Darkest%20Before%20the%20Dawn&fontSize=18&fontColor=ffffff&animation=twinkling"/>
+© 2024 The Dark Knight Coder | Built in the Bat Cave with 🦇 and ☕
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🧠 Master Deep Learning | ![80%](https://progress-bar.dev/80) | 🔥 In Progress |
-| 💻 Build 10+ ML Projects | ![60%](https://progress-bar.dev/60) | 📈 On Track |
-| 🎯 500 LeetCode Problems | ![40%](https://progress-bar.dev/40) | 💪 Working |
-| 🚀 FAANG Internship | ![30%](https://progress-bar.dev/30) | 📚 Preparing |
-| 🎓 Graduate with Honors | ![75%](https://progress-bar.dev/75) | ✨ On Track |
-
-</div>
-
----
-
-## 💼 Open for Opportunities
-
-<div align="center">
-
-### I'm currently looking for:
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
-      <br><strong>ML/AI Internships</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/code.png" width="40"/>
-      <br><strong>Open Source Projects</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/handshake.png" width="40"/>
-      <br><strong>Collaborations</strong>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/000000/learning.png" width="40"/>
-      <br><strong>Learning Partners</strong>
-    </td>
-  </tr>
-</table>
-
-**📍 Location:** Egypt | **💼 Available:** Remote/Hybrid | **📧 Contact:** mahmoudabdelrauf84@gmail.com
-
-</div>
-
----
-
-## 📝 Latest Blog Posts & Activities
-
-<!-- BLOG-POST-LIST:START -->
-- 🔭 Working on: **Deep Learning Projects**
-- 🌱 Learning: **Transformers & GANs**
-- 👯 Looking to collaborate on: **ML Research Papers**
-- 💬 Ask me about: **Machine Learning, Python, Problem Solving**
-- ⚡ Fun fact: **I debug with print statements and I'm proud of it!**
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a6yxqaymtsgce6vzqpzurf7n6i&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31a6yxqaymtsgce6vzqpzurf7n6i&redirect=true)
-
-</div>
-
----
-
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:12a8fa&height=100&section=footer&text=Thanks%20for%20visiting!%20Feel%20free%20to%20connect%20🚀&fontSize=14&fontColor=ffffff&animation=twinkling"/>
-
-**© 2024 Mahmoud Abdelrauf | Built with ❤️ and ☕**
-
-</div>
-```
+<img src="https://img.shields.io/badge/Protected%20by-BATMAN-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVCiRY/hPAWAiRSPDfwYGBgYWhlPKfxhevGNQkmNguM3AwPCfgYGBgYWBgeEfAwPDf6ZlCv8Zzl1nYBBmY2B49o6B4QADA8N/JgYGhocMDAz/Gf4zMHh4M/w3/M/AsJKBgeE/AwMDA8N/BoYFDAwM/xn+MzBwMjD8Z2BgYGBhYPj/n5GB4T8DAwPDPwYGBkaG/wz/GRgYGP4zMDD8Y2Bg+M/AwMDAwsjA8J+BgYHhPwMDwz8GBoZlCgz/Gc5dZ2AQZmNgePaOgeEAAwPDfyYGhv8PGRgY/jMw/Gdg8PBm+G/4n4FhJQMDw38GBgYGhv8MDAsYGBj+M/xnYOBkYPjPwMDA8J+BgeE/AwPDPwYGBkaG/wz/4QAAmChGRBrODYEAAAAASUVORK5CYII=&labelColor=FFD700"/></div> ```
