@@ -1,357 +1,259 @@
 <div align="center">
 
-<!-- Epic Intro -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6&height=150&section=header&text=⚡%20MAHMOUD%20ABDELRAUF%20⚡&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=The%20Bug%20Slayer%20|%20Code%20Wizard%20|%20Caffeine%20Converter&descAlignY=55&descAlign=50"/>
-
-<!-- Status Bar like a game -->
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/HP-100%2F100-00ff00?style=for-the-badge&logo=heart&logoColor=red"/></td>
-<td><img src="https://img.shields.io/badge/MP-∞-00ffff?style=for-the-badge&logo=lightning&logoColor=yellow"/></td>
-<td><img src="https://img.shields.io/badge/EXP-94.87%25-ffaa00?style=for-the-badge&logo=chartline&logoColor=white"/></td>
-<td><img src="https://img.shields.io/badge/LVL-3rd%20Year-ff00ff?style=for-the-badge&logo=graduation-cap&logoColor=white"/></td>
-</tr>
-</table>
-
-<!-- Animated Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=60&lines=%3E+SYSTEM.OUT.PRINTLN(%22HELLO+WORLD!%22);%3E+LOADING+AWESOME_DEVELOPER.EXE...;%3E+SUCCESS!+MAHMOUD_LOADED+✓)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 **[ PLAYER SELECT ]** 🎮
-
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/l0K4mbH4lKBhAPFU4/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50">
-
-### **>> PLAYER: MAHMOUD SELECTED <<**
-
-</div>
-
----
-
-## 🎯 **[ CHARACTER STATS ]**
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 👾 **Bio.exe**
-```javascript
-const mahmoud = {
-    title: "The Chosen Developer",
-    class: "Machine Learning Wizard 🧙‍♂️",
-    level: "3rd Year CS Student",
-    location: "Egypt 🇪🇬",
-    
-    stats: {
-        bugs_fixed: 1337,
-        coffee_consumed: Infinity,
-        sleep_hours: undefined,
-        will_to_live: "404 Not Found"
-    },
-    
-    special_abilities: [
-        "Can center a div",
-        "Googles faster than light",
-        "Copies from StackOverflow professionally",
-        "Debugs with console.log and proud"
-    ]
-};
-```
-
-</td>
-<td width="50%">
-
-### 🎪 **Achievement Unlocked!**
-<div align="center">
-
-🏆 **ML Accuracy Champion**
-```diff
-+ 94.87% Accuracy Achieved!
-+ Boss Level: Parkinson's Detection
-```
-
-⭐ **Code Warrior**
-```diff
-+ 25+ Projects Deployed
-+ 1337+ Bugs Eliminated
-```
-
-🎯 **Skill Master**
-```diff
-+ Python Ninja Level: MAX
-+ Java Knight Level: 85
-+ C++ Warrior Level: 70
-```
-
-☕ **Coffee Addict**
-```diff
-! Achievement Progress: ∞/∞
-```
-
-</div>
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **[ WEAPON INVENTORY ]**
-
-<div align="center">
-
-### ⚔️ **Primary Weapons**
-![Python](https://img.shields.io/badge/Python-LEGENDARY-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000)
-![Java](https://img.shields.io/badge/Java-EPIC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000)
-![C++](https://img.shields.io/badge/C++-RARE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000)
-
-### 🛡️ **Magic Spells (ML/AI)**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FIRE-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000)
-![PyTorch](https://img.shields.io/badge/PyTorch-LIGHTNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000)
-![Scikit Learn](https://img.shields.io/badge/Scikit-HEAL-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000)
-
-### 🎒 **Support Items**
-![Git](https://img.shields.io/badge/Git-POTION-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ELIXIR-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-SCROLL-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-AMULET-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🏰 **[ LEGENDARY QUESTS COMPLETED ]**
-
-<div align="center">
-
-### 🗺️ **Main Story Quests**
-
-| Quest | Description | Rewards | Status |
-|-------|-------------|---------|--------|
-| **🧠 [Parkinson's Detector](https://github.com/Mahmoud13MA/parkinsons-ml)** | Saved humanity with 94.87% accuracy | +1000 XP, ML Master Badge | ✅ COMPLETE |
-| **🗺️ [TSP Dungeon Solver](https://github.com/Mahmoud13MA/tsp-solver)** | Optimized the impossible routes | +500 XP, Algorithm Lord Title | ✅ COMPLETE |
-| **🎓 [Grade Manager System](https://github.com/Mahmoud13MA/grading-java)** | Brought order to academic chaos | +750 XP, Java Knight Armor | ✅ COMPLETE |
-
-</div>
-
----
-
-## 📊 **[ BATTLE STATISTICS ]**
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoud13MA&theme=2077" width="90%">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=radical&hide_border=true" />
-</td>
-</tr>
-</table>
-
-### **🎮 Language Usage Stats**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud13MA&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
-## 🎪 **[ FUN ZONE - ENTER AT YOUR OWN RISK ]**
-
-<div align="center">
-
-### 😂 **Developer Truths**
-
-<table>
-<tr>
-<td width="33%">
-
-**My Code:**
-```python
-# Works perfectly
-print("Hello World")
-```
-
-</td>
-<td width="33%">
-
-**Also My Code:**
-```python
-# TODO: Fix this
-# UPDATE: Still broken
-# UPDATE 2: WHY???
-# UPDATE 3: IT WORKS!
-# UPDATE 4: No it doesn't
-```
-
-</td>
-<td width="33%">
-
-**Production Code:**
-```python
-try:
-    do_something()
-except:
-    # ¯\_(ツ)_/¯
-    pass
-```
-
-</td>
-</tr>
-</table>
-
-### 🎭 **Debugging Stages**
-```
-1. 🤔 That's weird...
-2. 😕 That shouldn't happen
-3. 😠 WHY IS THIS HAPPENING?!
-4. 😭 I hate programming
-5. ☕ *Coffee break*
-6. 💡 Oh wait...
-7. 🤦 I'm an idiot
-8. 😎 I'm a genius!
-```
-
-### 🎲 **Random Dev Joke**
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-</div>
-
----
-
-## 🚀 **[ CURRENT MISSION: 2024 ]**
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│                    🎯 OPERATION: LEVEL UP 🎯                │
-├─────────────────────────────────────────────────────────────┤
-│ ▓▓▓▓▓▓▓▓░░░░░░░░░░░ 40% - Deep Learning Mastery           │
-│ ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 60% - Build Epic Projects             │
-│ ▓▓▓▓▓▓░░░░░░░░░░░░░ 30% - FAANG Interview Prep            │
-│ ▓▓▓▓░░░░░░░░░░░░░░░ 20% - Get Dream Internship            │
-│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 70% - Graduate Like a Boss            │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🎯 **[ DAILY ROUTINE ALGORITHM ]**
-
-```python
-while alive:
-    try:
-        wake_up()
-        drink_coffee(cups=float('inf'))
-        
-        if morning:
-            leetcode_problems.solve(n=3)
-            
-        while working:
-            code()
-            if bug_found:
-                blame_compiler()
-                google_solution()
-                copy_paste_from_stackoverflow()
-            commit_push()
-            
-        learn_new_tech()
-        build_cool_stuff()
-        
-    except BurnOut:
-        take_break()
-        play_games()
-        watch_netflix()
-        
-    finally:
-        sleep(hours=random.randint(3, 5))
-```
-
----
-
-## 🤝 **[ MULTIPLAYER MODE ]**
-
-<div align="center">
-
-### **🎮 Press START to Connect! 🎮**
-
-<table>
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/mahmoud-a-567a7a214">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000" />
-</a>
-</td>
-<td align="center">
-<a href="mailto:mahmoudabdelrauf84@gmail.com">
-<img src="https://img.shields.io/badge/Email-SEND_QUEST-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/Mahmoud13MA">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
-</a>
-</td>
-<td align="center">
-<a href="https://twitter.com/mahmoud13ma">
-<img src="https://img.shields.io/badge/Twitter-TWEET_ME-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000" />
-</a>
-</td>
-</tr>
-</table>
-
-### **📢 LOOKING FOR:**
-```diff
-+ ML/AI Internship Side Quests
-+ Open Source Raid Parties  
-+ Code Review Companions
-+ Bug Hunting Partners
-! Boss Battle: FAANG Interviews (Need Party Members!)
-```
-
-</div>
-
----
-
-## 🎬 **[ END CREDITS ]**
-
-<div align="center">
+# 🎮 PLAYER 1: MAHMOUD
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "I don't always test my code, but when I do, I do it in   ║
-║                        production."                          ║
-║                                                              ║
-║                    - Mahmoud, probably                       ║
-║                                                              ║
+║  ⚡ LOADING LEGENDARY DEVELOPER...                          ║
+║  ████████████████████████████████████████ 100% COMPLETE    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github.com/Mahmoud13MA/Mahmoud13MA/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+**[ ACHIEVEMENT UNLOCKED: VIEW MY PROFILE ]** 🏆
 
-### **⭐ Don't forget to star my repos! It feeds my motivation! ⭐**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12&height=100&section=footer&text=GAME%20OVER...%20CONTINUE?&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+---
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bugs-Features-00ff00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Works%20on-My%20Machine-orange?style=for-the-badge" />
+<div align="center">
+<table>
+<tr>
+<td>
 
-**© 2024 Mahmoud Abdelrauf | May the Code be with You 🚀**
+```python
+class MahmoudTheDeveloper:
+    """
+    Warning: This developer may cause:
+    - Excessive productivity
+    - Uncontrollable innovation
+    - Coffee shortage
+    """
+    
+    def __init__(self):
+        self.name = "Mahmoud Abdelrauf"
+        self.title = "Bug Slayer 🐛⚔️"
+        self.level = 47
+        self.location = "Egypt 🐪"
+        self.coffee_count = float('inf')
+        
+    def daily_routine(self):
+        while alive:
+            coffee.drink() ☕
+            bugs.fix() 🔨
+            features.ship() 🚀
+            stackoverflow.copy() 📋
+            # Just kidding about the last one... or am I? 😏
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎯 STATS THAT ACTUALLY MATTER
+
+<div align="center">
+
+| Metric | Value | Flex Level |
+|--------|-------|------------|
+| 🧠 **ML Accuracy** | 94.87% | *"Basically a Prophet"* |
+| ☕ **Coffee Consumed** | ∞ cups | *"Blood Type: Arabica"* |
+| 🐛 **Bugs Squashed** | 1,337 | *"Elite Exterminator"* |
+| 💻 **Keyboards Destroyed** | 3 | *"Passionate Typer"* |
+| 🎮 **Stack Overflow Karma** | 9,999 | *"Copy-Paste Ninja"* |
+| 😴 **Sleep Hours** | 404 Not Found | *"What's sleep?"* |
+
+</div>
+
+---
+
+## 🛠️ MY WEAPONS OF MASS PRODUCTION
+
+<div align="center">
+
+### Languages I Speak (Besides Sarcasm)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ML Arsenal (Yes, I'm That Guy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Translation:** *I make computers think so you don't have to* 🤖
+
+</div>
+
+---
+
+## 🏆 LEGENDARY PROJECTS (Not Clickbait)
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 **Parkinson's AI**
+```diff
++ Accuracy: 94.87%
++ Lives Saved: TBD
++ Coolness: Over 9000
+```
+**[[ PLAY NOW ]](https://github.com/Mahmoud13MA/parkinsons-ml)**
+
+*"It's basically magic, but with math"*
+
+</td>
+<td width="33%" align="center">
+
+### 🗺️ **TSP Solver**
+```diff
++ Algorithms: 3
++ Speed: Blazing Fast
++ Salesman: Very Happy
+```
+**[[ PLAY NOW ]](https://github.com/Mahmoud13MA/tsp-solver)**
+
+*"Making salesmen cry tears of joy since 2024"*
+
+</td>
+<td width="33%" align="center">
+
+### 🎓 **Grade System**
+```diff
++ Students: Grateful
++ Teachers: Amazed
++ Parents: Confused
+```
+**[[ PLAY NOW ]](https://github.com/Mahmoud13MA/grading-java)**
+
+*"Where grades go to become beautiful"*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATS (Prepare to be Impressed)
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│  CONTRIBUTION HEATMAP: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥  │
+│  Monday    ████████░░░░░░░░  50%  "Warming up"        │
+│  Tuesday   ████████████░░░░  75%  "Getting serious"   │
+│  Wednesday ████████████████  100% "Beast mode"        │
+│  Thursday  ████████████████  100% "Still going"      │
+│  Friday    ████████████████  100% "Can't stop"       │
+│  Saturday  ████████████████  100% "Won't stop"       │
+│  Sunday    ██░░░░░░░░░░░░░░  10%  "Battery low"      │
+└─────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud13MA&show_icons=true&theme=radical&title_color=FF6B6B&icon_color=FFD700&text_color=FFFFFF&bg_color=141321" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud13MA&theme=radical&background=141321&ring=FF6B6B&fire=FFD700" width="48%"/>
+
+</div>
+
+---
+
+## 🎯 2024 QUEST LOG
+
+<div align="center">
+
+| Quest | Progress | Reward |
+|-------|----------|--------|
+| 🧙‍♂️ **Master Deep Learning** | ████████░░ 80% | +1000 XP |
+| 💼 **Conquer FAANG** | ████░░░░░░ 40% | Legendary Loot |
+| 📜 **Publish Research** | ██░░░░░░░░ 20% | Scholar Title |
+| 🏆 **500 LeetCode** | ██████░░░░ 60% | Problem Slayer Badge |
+| 🎓 **Graduate** | ███████░░░ 70% | Freedom DLC |
+
+</div>
+
+---
+
+## 🎮 MINI-GAMES
+
+<details>
+<summary><b>🎲 Click to Roll for Random Dev Fact</b></summary>
+
+```javascript
+const facts = [
+  "🎯 Once debugged code in my dreams... it worked!",
+  "🍕 My code runs on pizza and energy drinks",
+  "🦆 I have a rubber duck advisory board",
+  "💡 I speak fluent Binary: 01001000 01101001",
+  "🐛 Bugs fear me, features love me",
+  "📚 Stack Overflow should pay me rent",
+  "⌨️ My keyboard has trust issues"
+];
+
+console.log(facts[Math.floor(Math.random() * facts.length)]);
+// Output: "My commits are 90% fixing typos in comments"
+```
+
+</details>
+
+<details>
+<summary><b>🏃 Speed Run Challenge</b></summary>
+
+**Can you read my entire README in under 60 seconds?**
+- Easy Mode: Just look at the gifs ✅
+- Normal Mode: Read the headers 📖
+- Hard Mode: Read everything 🤓
+- Legendary: Understand my code jokes 🧠
+
+</details>
+
+---
+
+## 📡 TRANSMIT MESSAGE TO DEVELOPER
+
+<div align="center">
+
+### Choose Your Communication Protocol:
+
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:mahmoudabdelrauf84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/mahmoud-a-567a7a214)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge)](https://github.com/Mahmoud13MA)
+
+**⚠️ Response Time:** *Faster than your npm install*
+
+</div>
+
+---
+
+## 🎬 END CREDITS
+
+<div align="center">
+
+```ascii
+═══════════════════════════════════════════════════════════
+   Thanks for scrolling! You've unlocked a secret:
+   
+   ⭐ Star my repos = +10 karma
+   🔄 Fork = +20 karma  
+   👀 Follow = +100 karma & eternal friendship
+   
+   Special Effects by: Coffee ☕
+   Bugs Provided by: JavaScript 🐛
+   Motivation by: Deadlines 📅
+   
+   © 2024 Mahmoud "The Bug Slayer" Abdelrauf
+   
+   P.S. - If my code works, I'm surprised too! 😄
+═══════════════════════════════════════════════════════════
+```
+
+<img src="https://komarev.com/ghpvc/?username=Mahmoud13MA&color=FF6B6B&style=for-the-badge&label=STALKERS+COUNT" />
+
+**[ GAME OVER - INSERT COIN TO CONTINUE ]** 🪙
 
 </div>
 ```
