@@ -1,62 +1,65 @@
+<!-- 🦇 Simple & Fun Batman-Themed GitHub Profile -->
+
+<div align="center">
+  
+  <h1>🦇 I'm <span style="color:#ffcc00;">Mahmoud Abdelrauf</span></h1>
+  <h3>💻 A Coder by Day, a Dark Knight by Night</h3>
+
+  ![bat-signal](https://i.imgur.com/5K2d3uT.gif)
+</div>
+
+---
+
+### 🧩 About Me
+- 🦸‍♂️ A passionate developer who loves solving coding crimes  
+- 🧠 Always learning new tech to stay one step ahead of the villains  
+- 💬 Ask me about **Python**, **Java**, or **Machine Learning**  
+- ☕ Runs on caffeine and late-night debugging  
+
+---
+
+### 🧱 Tech Arsenal
+| Languages | Tools | Interests |
+|------------|--------|-----------|
+| 🐍 Python | 🧩 Git & GitHub | 🧠 Machine Learning |
+| ☕ Java | 🪶 PyQt5 | 🕸️ Web Dev |
+| 🐧 Linux | 🧰 VS Code | 🤖 AI Projects |
+
+---
+
+### ⚙️ Featured Projects
+- 🧭 **TSP Solver GUI (PyQt5)** – Compare algorithms like Nearest Neighbor, Brute Force, and Genetic  
+- 🧬 **Parkinson's ML Classifier** – Predicts disease using XGBoost  
+- 🧑‍🏫 **Student Grading System (Java Swing)** – GUI + Database integration  
+- 📊 **Data Analysis Notebooks** – Clean visualizations and automation scripts  
+
+---
+
+### 🏆 GitHub Stats
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:1a1a1a&height=180&text=🦇%20THE%20DARK%20KNIGHT%20CODER%20🦇&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=MAHMOUD%20ABDELRAUF&descSize=20&descAlignY=55&descAlign=50"/>
-
-### 💻 "It's not who I am underneath, but what I code that defines me."
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-shaban&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-shaban&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-### 🦇 About Me
-
-- 🧠 CS Student & Machine Learning Enthusiast  
-- 🌃 Based in Egypt 🇪🇬  
-- ⚡ Loves Python, Java, and AI Projects  
-- 💼 Building smart systems & solving Gotham’s toughest bugs  
-- ☕ Fueled by coffee & dark mode
+### 💡 Fun Facts
+- 🦇 “I’m not a hero... I’m a developer.”  
+- 🧩 Loves clean code almost as much as Alfred loves order  
+- 🎮 Enjoys gaming and exploring tech gadgets  
 
 ---
 
-### ⚙️ Bat-Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=000000&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=1a1a1a)
-![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=cplusplus&logoColor=000000&labelColor=1a1a1a)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=000000&labelColor=1a1a1a)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=000000&labelColor=1a1a1a)
-
-</div>
-
----
-
-### 🎯 Featured Missions
-
-| 🦇 Project | 🎯 Description | 🔗 Link |
-|:--|:--|:--|
-| **Arkham Detector** | Detecting Parkinson’s using ML | [View Repo](https://github.com/Mahmoud13MA/parkinsons-ml) |
-| **Gotham Router** | TSP path optimization system | [View Repo](https://github.com/Mahmoud13MA/tsp-solver) |
-
----
-
-### 📞 Bat-Signal
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Wayne%20Enterprises-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/mahmoud-a-567a7a214)
-[![Gmail](https://img.shields.io/badge/Bat%20Signal-FFD700?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mahmoudabdelrauf84@gmail.com)
-[![GitHub](https://img.shields.io/badge/Bat%20Cave-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Mahmoud13MA)
-
-</div>
+### 🕹️ Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lord-shaban)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
 
 ---
 
 <div align="center">
 
-🦇 *“Even Batman uses print() for debugging.”*  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:000000,100:FFD700&height=100&section=footer&text=The%20Dark%20Knight%20Coder&fontSize=20&fontColor=ffffff"/>
-
+⭐ “It's not who I am underneath, but what I code that defines me.” ⭐  
 </div>
